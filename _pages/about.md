@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> I am a PhD researcher in aerospace engineering and I work in the cooperative distributed systems lab, University of Cincinnati, Ohio USA. My research focuses on development of advanced flight controllers for multi-rotor UAVs and utilizing the unmanned aerial technologies for traffic monitoring for Ohio department of transportation (ODOT). I am passionate to work in development of futuristic aerospace technologies. The thrust area of my research is flight dynamics and control and I hold masters of science in aerospace engineering from university of Cincinnati-2017. </div>
+<div style="text-align: justify"> I am a PhD researcher in aerospace engineering and I work in the Cooperative Distributed Systems lab at the University of Cincinnati, Ohio USA. My research focuses on development of position attitude and fault tolerant flight controllers for multi-rotor UAVs.  I am also part of a funded project with Ohio department of transportation (ODOT) where we utilize the unmanned aerial technologies for traffic monitoring using computer vision and deep learning techniques. I am passionate to work in development of futuristic aerospace technologies. I hold Masters of Science in Aerospace Engineering with Dynamics and Control specialization from the University of Cincinnati. </div>
 
 
