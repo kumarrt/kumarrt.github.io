@@ -1,0 +1,16 @@
+---
+title: "Position and Attitude Control by Rotor Tilt and Rotor Speed Synchronization for Single Axis Tilting-Rotor Quadcopter"
+collection: 
+permalink: 
+excerpt: 
+date: 2017-10-11
+venue: 'ASME Dynamic Systems and Control Conference (DSCC)'
+---
+
+<div style="text-align: justify"> In this paper, the control maneuvering, and performance analysis of a tilting-rotor quadcopter during autonomous flight is presented. Unlike traditional quadcopters, a tilting-rotor quadcopter provides additional actuated controls as the propeller motors are actuated for tilt which can be utilized to improve efficiency of the aerial vehicle during flight. The tilting-rotor quadcopter design is accomplished by using an additional servo motor for each rotor that enables the rotor to tilt about the axis of quadcopter arm. Here, a detailed control strategy has been discussed to use the propeller tilts for position and orientation control during completely autonomous flights of the quadcopter. In conventional quadcopters, the variation in rotational speeds of the four propellers is utilized for maneuvering. This work incorporates use of varying propeller rotational speeds along with tilting of the propellers for maneuvering the quadcopter during flight. A PD controller is developed to achieve various modes of flight and numerical simulation results are presented demonstrating the performance of the controller. Furthermore, the performance of the tilt-rotor design is compared with respect to the conventional quadcopter in the presence of wind disturbances and uncertainties in the system.   </div> 
+
+  
+* [Link to paper](https://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2663647)
+
+* Recommended citation: <code>@inproceedings{kumar2017position,   title={Position and Attitude Control by Rotor Tilt and Rotor Speed Synchronization for Single Axis Tilting-Rotor Quadcopter}, author={Kumar, Rumit and Nemati, Alireza and Kumar, Manish and Cohen, Kelly and Cazaurang, Franck},   booktitle={ASME 2017 Dynamic Systems and Control Conference},   pages={V003T39A005--V003T39A005}, year={2017},   organization={American Society of Mechanical Engineers}}
+ </code> 
