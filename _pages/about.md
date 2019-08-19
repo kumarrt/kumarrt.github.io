@@ -17,4 +17,4 @@ Contact : kumarrt@mail.uc.edu
 
 Research Interests
 ======
-Control law development, Aerial Robotics, Flight Testing, Fault-Tolerant Control, Hardware and Software in Loop Testing
+Control law development, Aerial Robotics, Flight Testing, Fault-Tolerant Control, Hardware and Software in Loop Testing, Localization and Mapping, Applications of Computer Vision and Deep Learning Techniques
