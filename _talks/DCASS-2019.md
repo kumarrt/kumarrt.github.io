@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: 
 venue: "44th Dayton-Cincinnati Aerospace Sciences Symposium, AIAA"
-date: 2017-03-05
+date: 2019-03-05
 location: "Dayton, Ohio, USA"
 
 ---
