@@ -1,7 +1,7 @@
 ---
 title: "Position, Attitude, and Fault-Tolerant Control of Tilt-Rotor Quadcopter"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: 
 venue: "42nd Dayton-Cincinnati Aerospace Sciences Symposium, AIAA"
 date: 2017-03-01
