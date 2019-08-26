@@ -3,7 +3,7 @@ title: "Traffic Monitoring at Signalized Intersections Using UAV Flight Operatio
 collection: talks
 type: "Lightening Talk"
 permalink: 
-venue: "2019 AIAA INTELLIGENT SYSTEMS WORKSHOP"
+venue: "2019 AIAA Intelligent Systems Workshop"
 date: 2019-07-29
 location: "Cincinnati, Ohio, USA"
 
