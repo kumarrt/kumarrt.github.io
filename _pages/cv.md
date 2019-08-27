@@ -29,6 +29,8 @@ Work experience
   * Projects: Rustom-I MALE UAV, Rustom-II HALE UAV
   * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
 
+
+
 Skills
 ======
 * Skill 1
@@ -37,6 +39,18 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+
+Awards and Scholarships
+======
+* Best presentation award in student lightening talks at the 2019 AIAA Intelligent Systems Workshop, 2019
+* Best technical presentation award, 42nd Dayton-Cincinnati, Aerospace Sciences Symposium, 2017
+* Gold medal and certificate of merit for undergraduate university rank-1, 2017
+* Robotics Technical Committee - Best student paper award, DSCC-2016, ASME
+* University graduate scholarship, University of Cincinnati, 2015 - Present
+* National research fellowship award, Ministry of Defence, India, (2012, 2014)
+* Best concept all terrain vehicle (ATV) award at Automall Expo, India, 2011
+
 
 Publications
 ======
