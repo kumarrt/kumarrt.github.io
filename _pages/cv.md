@@ -33,12 +33,8 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software skills: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
+* Hardware skills: PixHawk Autopilot, Piksi GPS-RTK, Decawave UWB Radios, DJI Flamewheel, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
 
 
 Awards and Scholarships
