@@ -51,7 +51,7 @@ Scholarly Paper Reviews
 ======
 * Journal of Dynamic Systems, Measurement and Control, ASME
 * Journal of Aerospace Science and Technology, Elsevier
-* IET Control Theory \& Applications
+* IET Control Theory & Applications
 * IEEE Access
 * International Journal of Micro Air Vehicles
 * American Control Conference (ACC), IEEE 
