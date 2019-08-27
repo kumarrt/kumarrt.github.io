@@ -24,7 +24,11 @@ Work experience
     * Surveying and validation of GPS RTK system for 3D photogrammetry terrain reconstruction for various sites of Ohio Department of Transportation (ODOT)
     * Computation and analysis of traffic flow parameters using computer vision and deep learning techniques on traffic videos obtained by UAV flight operations for ODOT
 
-  
+
+* November 2012 - July 2015: Senior Research Fellow at Aeronautical Development Establishment, India
+  * Projects: Rustom-I MALE UAV, Rustom-II HALE UAV
+  * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
+
 Skills
 ======
 * Skill 1
