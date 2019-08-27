@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. Tech. in Aeronautical Engineering, Maharshi Dayanand University, Rohtak, 2012
+* M.S. in Aerospace Engineering, University of Cincinnati, 2017
+* Ph.D in Aerospace Engineering, University of Cincinnati (in-progress)
 
 Work experience
 ======
