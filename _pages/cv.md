@@ -33,7 +33,7 @@ Work experience
 Skills
 ======
 * Software: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
-* Hardware: PixHawk Autopilot, Piksi GPS-RTK, Decawave UWB Radios, DJI Flamewheel Quadcopter, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
+* Hardware: PixHawk Autopilot, Piksi GPS-RTK Module, Decawave UWB Radios, DJI Flamewheel Research Quadcopter, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
 
 
 Awards and Scholarships
