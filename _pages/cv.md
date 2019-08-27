@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016: Graduate Research Assistant at Co-operative Distributed Systems Laboratory, University of Cincinnati, USA
+  * Advisor: Dr. Manish Kumar
+  * Position, attitude, and fault-tolerant control of tilt-rotor quadcopter
+  * Development of custom flight software using Pixhawk Pilot Support Package (PSP) by Mathworks
+  * Surveying and validation of GPS RTK system for 3D photogrammetry terrain reconstruction for various sites of Ohio Department of Transportation (ODOT)
+  * Computation and analysis of traffic flow parameters using computer vision and deep learning techniques on traffic videos obtained by UAV flight operations for ODOT
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
