@@ -47,6 +47,17 @@ Awards and Scholarships
 * Best concept all terrain vehicle (ATV) award at Automall Expo, India, 2011
 
 
+Scholarly Paper Reviews
+======
+* Journal of Dynamic Systems, Measurement and Control, ASME
+* Journal of Aerospace Science and Technology, Elsevier
+* IET Control Theory \& Applications
+* IEEE Access
+* International Journal of Micro Air Vehicles
+* American Control Conference (ACC), IEEE 
+* Dynamic Systems and Control Conference (DSCC), ASME
+* International Conference of Unmanned Aerial Systems (ICUAS), IEEE  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
