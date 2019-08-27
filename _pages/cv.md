@@ -30,7 +30,6 @@ Work experience
   * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
 
 
-
 Skills
 ======
 * Software: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
@@ -59,13 +58,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#   {% include archive-single-cv.html %}
-# {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
