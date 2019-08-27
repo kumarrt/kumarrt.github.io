@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Fall 2016: Graduate Research Assistant at Co-operative Distributed Systems Laboratory, University of Cincinnati, USA
-  * Advisor: Dr. Manish Kumar
+* Fall 2016: Graduate Research Assistant at Co-operative Distributed Systems Laboratory ([CDS Lab](https://ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)), University of Cincinnati, USA
+  * Advisor: [Dr. Manish Kumar](https://researchdirectory.uc.edu/p/kumarmu)
   * Position, attitude, and fault-tolerant control of tilt-rotor quadcopter
   * Development of custom flight software using Pixhawk Pilot Support Package (PSP) by Mathworks
   * Surveying and validation of GPS RTK system for 3D photogrammetry terrain reconstruction for various sites of Ohio Department of Transportation (ODOT)
