@@ -33,8 +33,8 @@ Work experience
 
 Skills
 ======
-* Software skills: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
-* Hardware skills: PixHawk Autopilot, Piksi GPS-RTK, Decawave UWB Radios, DJI Flamewheel, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
+* Software: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
+* Hardware: PixHawk Autopilot, Piksi GPS-RTK, Decawave UWB Radios, DJI Flamewheel Quadcopter, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
 
 
 Awards and Scholarships
@@ -60,12 +60,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#   {% include archive-single-cv.html %}
+# {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
