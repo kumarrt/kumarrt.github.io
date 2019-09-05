@@ -1,6 +1,6 @@
 ---
 title: "Traffic Monitoring Using Drones"
-excerpt: "Media coverage for the departmentent of transportation project, please click [here](https://www.youtube.com/watch?v=40ETHT2a8SQ) for more details."
+excerpt: "Media coverage for the departmentent of transportation project, please [click here](https://www.youtube.com/watch?v=40ETHT2a8SQ) for more details."
 
 
 collection: portfolio
