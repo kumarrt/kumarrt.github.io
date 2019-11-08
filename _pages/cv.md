@@ -38,6 +38,7 @@ Skills
 
 Awards and Scholarships
 ======
+* Most collaborative team and project award at Skyhack hackathon 2019, Kent State University, 2019
 * Best presentation award in student lightening talks at the 2019 AIAA Intelligent Systems Workshop, 2019
 * Best technical presentation award, 42nd Dayton-Cincinnati, Aerospace Sciences Symposium, 2017
 * Gold medal and certificate of merit for undergraduate university rank-1, 2017
@@ -54,6 +55,7 @@ Scholarly Paper Reviews
 * IET Control Theory & Applications
 * IEEE Access
 * International Journal of Micro Air Vehicles
+* Journal of Control Science and Engineering
 * American Control Conference (ACC), IEEE 
 * Dynamic Systems and Control Conference (DSCC), ASME
 * International Conference of Unmanned Aerial Systems (ICUAS), IEEE  
