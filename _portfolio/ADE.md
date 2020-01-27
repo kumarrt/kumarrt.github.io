@@ -6,7 +6,7 @@ excerpt: "Defence organisation designing and developing Unmanned Aerial Systems 
 collection: portfolio
 ---
 <div style="text-align: justify"> 
-I worked as junior/senior research fellow at the <a href="https://www.drdo.gov.in/drdo/labs1/ADE/English/indexnew.jsp?pg=homepage.jsp"> Aeronautical Development Establishment </a>, India in the years 2012-2015. Here is a brief description of my research activities and contribution to various projects. Please <a href="https://www.youtube.com/watch?v=_vvhno58Qq8"> click here </a> to see the media coverage for one of the projects. </div>
+I worked as junior/senior research fellow at the Aeronautical Development Establishment, India in the years 2012-2015. Here is a brief description of my research activities and contribution to various projects. Please <a href="https://www.youtube.com/watch?v=_vvhno58Qq8"> click here </a> to see the media coverage for one of the projects. </div>
 
 * Developed Linearized Small Perturbation Model for UAVs using Control System Tool Box to design the Control Law for Longitudinal, Lateral-Directional and Nose Wheel Steering Dynamics. 
 
