@@ -38,11 +38,13 @@ Skills
 
 Awards and Scholarships
 ======
-* Most collaborative team and project award at Skyhack hackathon 2019, Kent State University, 2019
-* Best presentation award in student lightening talks at the 2019 AIAA Intelligent Systems Workshop, 2019
+* Graduate Student Research Fellowship, $1200, University of Cincinnati,2020
+* Graduate student of the month, June-2020, $500, CEAS, University of Cincinnati, 2020
+* Most collaborative team and project award, $600, Skyhack hackathon 2019, Kent State University, 2019
+* Best presentation award in student lightening talks, $1000, AIAA Intelligent Systems Workshop, 2019
 * Best technical presentation award, 42nd Dayton-Cincinnati, Aerospace Sciences Symposium, 2017
 * Gold medal and certificate of merit for undergraduate university rank-1, 2017
-* Robotics Technical Committee - Best student paper award, DSCC-2016, ASME
+* Robotics Technical Committee - Best student paper award, $500, DSCC-2016, ASME
 * University graduate scholarship, University of Cincinnati, 2015 - Present
 * National research fellowship award, Ministry of Defence, India, (2012, 2014)
 * Best concept all terrain vehicle (ATV) award at Automall Expo, India, 2011
