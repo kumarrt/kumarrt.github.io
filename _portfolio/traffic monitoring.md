@@ -12,4 +12,7 @@ This project is funded by [Ohio Department of Transportation](http://www.dot.sta
 
 * [Link-1](https://www.youtube.com/watch?v=40ETHT2a8SQ): Media coverage of the project.
 
-* [Link-2](https://www.youtube.com/watch?v=dRsLlXECK0I&feature=youtu.be): Webinar for Ohio Department of Transportaion 
+* [Link-2](https://www.youtube.com/watch?v=dRsLlXECK0I&feature=youtu.be): Webinar for Ohio Department of Transportaion
+
+* [Link-3](https://youtu.be/dAOzG028nTM): Sample traffic video 
+
