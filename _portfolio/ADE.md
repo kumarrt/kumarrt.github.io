@@ -18,7 +18,7 @@ I worked as junior/senior research fellow at the Aeronautical Development Establ
 
 * Carried out Integrator Balancing in Pitch and Roll Loop of UAV control law in order to solve the problem of Control Surfaces Demand Divergence.
   
-* Performed post testing data analysis of various real time airfield flight/taxi for analyzing the response of various flight parameters during the exercise.
+* Performed post testing data analysis of various real time airfield flight/taxi trials for analyzing the response of various flight parameters during the exercise.
   
 * Devised an algorithm for computing the cross track error of UAV during taxi with respect to runway centerline by using Inertial Navigation System (INS) velocities, the performance of this algorithm was validated by Differential Global Positioning System (DGPS).
   
