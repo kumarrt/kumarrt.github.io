@@ -7,8 +7,8 @@ collection: portfolio
 ---
 
 <div style="text-align: justify"> 
-I have been recognized as the Engineer of the Month, June 2020 by the University of Cincinnati - College of Engineering and Applied Science.
-The interview article is available from the following link.
+I was recognized as the Engineer of the Month, June 2020 by the University of Cincinnati - College of Engineering and Applied Science.
+The interview article can be accessed from the following link.
 </div> 
 
 
