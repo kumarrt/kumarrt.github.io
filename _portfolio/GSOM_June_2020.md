@@ -12,4 +12,4 @@ The interview article can be accessed from the following link.
 </div> 
 
 
-* [Link](https://www.uc.edu/news/articles/2020/06/n20925704.html#print).
+* [Link](https://www.uc.edu/news/articles/2020/06/n20925704.html#print)
