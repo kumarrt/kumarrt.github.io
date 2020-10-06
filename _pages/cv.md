@@ -20,9 +20,9 @@ Work experience
 * Fall 2016 - Present: Graduate Research Assistant at [CDS Lab](https://ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html), University of Cincinnati, USA
   * Advisor: [Dr. Manish Kumar](https://researchdirectory.uc.edu/p/kumarmu)
     * MS Thesis: [Position, attitude, and fault-tolerant control of tilt-rotor quadcopter](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:149215)
-    * Position, attitude, and fault-tolerant control of the tilt-rotor quadcopter using PID and sliding mode control techniques
-    * Development of flight software and hardware implementation using Pixhawk Pilot Support Package (PSP) by Mathworks
-    * Computation and analysis of traffic flow parameters using computer vision and deep learning techniques. Traffic videos were obtained by DJI Matrice-100/210, tethered DJI   Matrice-100 UAVs using Zenmuse Z3, Z30, X5S cameras
+    * Position, attitude, and fault-tolerant control of the tilt-rotor quadcopter using PID and sliding mode control
+    * Development of flight software and hardware implementation using Pixhawk Pilot Support Package by Mathworks
+    * Computation and analysis of traffic parameters using computer vision and deep learning techniques. Traffic videos were obtained by DJI Matrice-100/210, tethered DJI   Matrice-100 UAVs using Zenmuse and X5S cameras
     * Surveying and validation of GPS-RTK systems for 3D terrain reconstruction using photogrammetry 
     * Telehealth aerial robot for medical logistic operations and assisting patients during a quarantine situation
 
@@ -31,10 +31,10 @@ Work experience
 * November 2012 - July 2015: Senior Research Fellow at Aeronautical Development Establishment, India
   * Projects: Rustom-I MALE UAV, Rustom-II HALE UAV
   * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
-     * Development of aircraft mathematical dynamic models using actual wind tunnel data, aircraft structures and propulsion data
-     * Control law design of UAVs using small perturbation models and non-linear six-DOF, Monte-Carlo  simulations
-     * Performance evaluation of inertial navigation system, aircraft sensors and actuators on three-axes motion simulator
-     * Verification and validation by Hardware in the loop (HIL) testing of duplex flight software using OPAL-RT simulators 
+     * Development of aircraft mathematical dynamic models using wind tunnel data, structures and propulsion data
+     * Control law design of UAVs using small perturbation models, six-DOF and Monte-Carlo  simulations
+     * Evaluation of inertial navigation system, aircraft sensors and actuators on three-axes motion simulator
+     * Hardware in the loop (HIL) testing of duplex flight software using OPAL-RT simulators 
      * Development of flight  telemetry and  post flight data analysis
 
   
