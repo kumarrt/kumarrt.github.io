@@ -31,7 +31,7 @@ Work experience
 * November 2012 - July 2015: Senior Research Fellow at Aeronautical Development Establishment, India
   * Projects: Rustom-I MALE UAV, Rustom-II HALE UAV
   * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
-     * Development of aircraft mathematical dynamic models using wind tunnel data, structures and propulsion data
+     * Development of aircraft mathematical dynamic models using wind tunnel, structures and propulsion data
      * Control law design of UAVs using small perturbation models, six-DOF and Monte-Carlo  simulations
      * Evaluation of inertial navigation system, aircraft sensors and actuators on three-axes motion simulator
      * Hardware in the loop (HIL) testing of duplex flight software using OPAL-RT simulators 
