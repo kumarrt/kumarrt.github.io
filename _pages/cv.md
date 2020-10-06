@@ -20,24 +20,38 @@ Work experience
 * Fall 2016 - Present: Graduate Research Assistant at [CDS Lab](https://ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html), University of Cincinnati, USA
   * Advisor: [Dr. Manish Kumar](https://researchdirectory.uc.edu/p/kumarmu)
     * MS Thesis: [Position, attitude, and fault-tolerant control of tilt-rotor quadcopter](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:149215)
-    * Development of custom flight software using Pixhawk Pilot Support Package (PSP) by Mathworks
-    * Surveying and validation of GPS RTK system for 3D photogrammetry terrain reconstruction for various sites of Ohio Department of Transportation (ODOT)
-    * Computation and analysis of traffic flow parameters using computer vision and deep learning techniques on traffic videos obtained by UAV flight operations for ODOT
+    * Position, attitude, and fault-tolerant control of the tilt-rotor quadcopter using PID and sliding mode control techniques
+    * Development of flight software and hardware implementation using Pixhawk Pilot Support Package (PSP) by Mathworks
+    * Computation and analysis of traffic flow parameters using computer vision and deep learning techniques. Traffic videos were obtained by DJI Matrice-100/210, tethered DJI   Matrice-100 UAVs using Zenmuse Z3, Z30, X5S cameras
+    * Surveying and validation of GPS-RTK systems for 3D terrain reconstruction using photogrammetry 
+    * Telehealth aerial robot for medical logistic operations and assisting patients during a quarantine situation
+
 
 
 * November 2012 - July 2015: Senior Research Fellow at Aeronautical Development Establishment, India
   * Projects: Rustom-I MALE UAV, Rustom-II HALE UAV
   * Research Focus: Unmanned Aerial Vehicles, Aircraft Sensors and Actuators, Flight Mechanics and Control Law Design, Inertial Navigation Systems, Six-DOF Simulations, Monte-Carlo Simulations, Hardware in Loop Testing, Aircraft Telemetry Systems and Post Flight Data Analysis
+     * Development of aircraft mathematical dynamic models using actual wind tunnel data, aircraft structures and propulsion data
+     * Control law design of UAVs using small perturbation models and non-linear six-DOF, Monte-Carlo  simulations
+     * Performance evaluation of inertial navigation system, aircraft sensors and actuators on three-axes motion simulator
+     * Verification and validation by Hardware in the loop (HIL) testing of duplex flight software using OPAL-RT simulators 
+     * Development of flight  telemetry and  post flight data analysis
+
+  
 
 
 Skills
 ======
-* Software: Robot Operating System, MATLAB and Simulink, OpenCv, Python, Tensor Flow, Motive, QGround Control
-* Hardware: PixHawk Autopilot, Piksi GPS-RTK Module, Decawave UWB Radios, OptiTrack Motion Capture, DJI Flamewheel Research Quadcopter, 3DR Custom-Quadcopter, Tilt-Rotor Quadcopter
+* Programming: Python, MATLAB and Simulink, OpenCV, TensorFlow
+* Software: RT-Lab, Motive, Gazebo SITL, PX4, APM, QGC, ROS,  MS Office,  LaTeX
+* Hardware: Pixhawk Autopilot, Piksi GPS-RTK Module, Decawave UWB Radios, Raspberry-pi, OptiTrack Mocap, Intel RealSense, Nvidia Jetson
+* Robots: Tilt-rotor UAV, DJI Flamewheel quadcopter, 3DR experimental quadcopter for SLAM, tethered DJI Matrice-100 drone,  DJI Matrice-100/210 drones
+* Control Design: PID control, Pole placement control,  LQR and LQG control, State estimation,  Back-stepping control, Sliding mode control
 
 
 Awards and Scholarships
 ======
+* Top Publications in Robotics and Control conferences:  IROS, ACC, DSCC
 * Graduate Student Research Fellowship, $1200, University of Cincinnati,2020
 * Graduate student of the month, June-2020, $500, CEAS, University of Cincinnati, 2020
 * Most collaborative team and project award, $600, Skyhack hackathon 2019, Kent State University, 2019
