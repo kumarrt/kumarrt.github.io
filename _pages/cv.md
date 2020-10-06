@@ -21,7 +21,7 @@ Work experience
   * Advisor: [Dr. Manish Kumar](https://researchdirectory.uc.edu/p/kumarmu)
     * MS Thesis: [Position, attitude, and fault-tolerant control of tilt-rotor quadcopter](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:149215)
     * Position, attitude, and fault-tolerant control of the tilt-rotor quadcopter using PID and sliding mode control
-    * Development and hardware implementation of flight software using Pixhawk Pilot Support Package by Mathworks
+    * Hardware implementation of custom flight software using Pixhawk Pilot Support Package by Mathworks
     * Computation and analysis of traffic parameters using computer vision and deep learning techniques. Traffic videos were obtained by DJI Matrice-100/210, tethered DJI   Matrice-100 UAVs
     * Surveying and validation of GPS-RTK systems for 3D terrain reconstruction using photogrammetry 
     * Telehealth aerial robot for medical logistic operations and assisting patients during a quarantine situation
