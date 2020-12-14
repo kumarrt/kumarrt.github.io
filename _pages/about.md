@@ -17,7 +17,7 @@ I have publications in premier robotics consferences: IROS, ACC, DSCC. I am seek
  </div>
 
 <br />
-Contact email : kumarrt@mail.uc.edu
+Contact information : kumarrt@mail.uc.edu
 <br />
 <br />
 
