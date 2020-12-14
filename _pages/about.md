@@ -12,7 +12,7 @@ redirect_from:
 <br />
 <br />
 
-I have publications in premier robotics consferences: IROS, ACC, DSCC. I am seeking an internship or full-time opportunity in the area of robotics, guidance, navigation and control (GNC), robot control implementation, verification and validation, dynamic modeling and simulation, applications of computer vision, and deep learning.
+I have publications in premier robotics consferences: IROS, ACC, DSCC. I am seeking an opportunity in the area of robotics, guidance, navigation and control (GNC), robot control implementation, verification and validation, dynamic modeling and simulation, applications of computer vision, and deep learning.
 
  </div>
 
