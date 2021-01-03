@@ -46,7 +46,7 @@ Skills
 * Software: RT-Lab, Motive, Gazebo SITL, PX4, APM, QGC, ROS,  MS Office,  LaTeX
 * Hardware: Pixhawk Autopilot, Piksi GPS-RTK Module, Decawave UWB Radios, Garmin Lidar-Lite v3, OpenMV Cam H7, PX4Flow, Intel RealSense, Raspberry-pi, OptiTrack Mocap,  Nvidia Jetson
 * Robots: Tilt-rotor UAV, DJI Flamewheel quadcopter, 3DR experimental quadcopter for SLAM, tethered DJI Matrice-100 drone,  DJI Matrice-100/210 drones
-* Control Design: PID control, Pole placement control,  LQR and LQG control, State estimation,  Back-stepping control, Sliding mode control
+* Control Design: Controller Tuning, PID control, Pole placement control,  LQR and LQG control, State estimation,  Back-stepping control, Sliding mode control
 
 
 Awards and Scholarships
