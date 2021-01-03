@@ -13,7 +13,7 @@ Education
 ======
 * B. Tech. in Aeronautical Engineering, Maharshi Dayanand University, Rohtak, 2012
 * M.S. in Aerospace Engineering, University of Cincinnati, 2017
-* Ph.D in Aerospace Engineering, University of Cincinnati (in-progress)
+* Ph.D in Aerospace Engineering, University of Cincinnati (2017-2021)
 
 Work experience
 ======
