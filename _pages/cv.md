@@ -19,7 +19,7 @@ Work experience
 ======
 * Fall 2016 - Present: Graduate Research Assistant at [CDS Lab](https://ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html), University of Cincinnati, USA
   * Advisor: [Dr. Manish Kumar](https://researchdirectory.uc.edu/p/kumarmu)
-    * MS Thesis: [Position, attitude, and fault-tolerant control of tilt-rotor quadcopter](https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:149215)
+    * MS Thesis: [Position, attitude, and fault-tolerant control of tilt-rotor quadcopter](http://rave.ohiolink.edu/etdc/view?acc_num=ucin149156174235128)
     * Position, attitude, and fault-tolerant control of the tilt-rotor quadcopter using PID and sliding mode control
     * Hardware implementation of custom flight software using Pixhawk Pilot Support Package by Mathworks
     * Computation and analysis of traffic parameters using computer vision and deep learning techniques. Traffic videos were obtained by DJI Matrice-100/210, tethered DJI   Matrice-100 UAVs
